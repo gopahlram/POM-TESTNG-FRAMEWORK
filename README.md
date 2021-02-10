@@ -20,7 +20,7 @@ Clone the repository to your workspace.
 Open the testng.xml under the LocusAssignementFramework/testng.xml
 Run the testng.xml file. You can even run as mvn test which will trigger the testng.xml
 
-maven command to run : mvn clean test -DsuiteXmlFile="testng.xml
+maven command to run : mvn clean test -DsuiteXmlFile="testng.xml"
 
 
 How to run my scripts in local?
